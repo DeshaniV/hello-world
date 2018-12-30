@@ -1,3 +1,3 @@
 # hello-world
 My first repo, 
-Just a beginer trying to adopt
+Just a beginer trying to adapt
